@@ -34,3 +34,5 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+2025-11-20 16:58:21.869 [info] > git remote get-url --push origin [134ms]
+2025-11-20 16:58:21.881 [info] > git remote get-url --push origin [52ms]
